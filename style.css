@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+#centers{
+  text-align:center;"
+}
+#featured-property img {
+margin-left: 250px;
+}
+#featured-property p {
+  text-align: center;
+  width: 800px;
+  margin-left: 350px;
+}
+.links{
+  text-align: center;
+}
+#px{
+  padding: 10px;
+}
+#details div{
+  float:left;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: rgb(245, 13, 13);
+}
+#featured-property figcaption{
+  text-align: center;
+  margin-left:0px;
+
+}
+#block{
+  padding: 20px;
+}
